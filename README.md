@@ -8,9 +8,9 @@ A great example repo you can fork to your heart’s content, that serves as a la
 The first thing you want to do with this repo is quite likely [**fork it**](https://help.github.com/articles/fork-a-repo/).  Use the Fork button in the top-right section of the page to do this.
 
 Once you’re on your fork, you can experiment however you like with it, play with branches, issues, milestones, labels, the wiki, and more.
-[xxx](http://duckduckgo.com)
-[yyy](http://duckduckgo.com)
-[zzz](http://duckduckgo.com)
+[xxx](https://duckduckgo.com)
+[yyy](https://duckduckgo.com)
+[zzz](https://duckduckgo.com)
 
 ## What’s in there?
 
